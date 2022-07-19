@@ -1,0 +1,15 @@
+C:\Users\Achem\source\repos\Проверка Сетервых протоколов\TCP-чат2\Tcp-чат2\Tcp-чат2\bin\Debug\Tcp-чат2.exe.config
+C:\Users\Achem\source\repos\Проверка Сетервых протоколов\TCP-чат2\Tcp-чат2\Tcp-чат2\bin\Debug\Tcp-чат2.exe
+C:\Users\Achem\source\repos\Проверка Сетервых протоколов\TCP-чат2\Tcp-чат2\Tcp-чат2\bin\Debug\Tcp-чат2.pdb
+C:\Users\Achem\source\repos\Проверка Сетервых протоколов\TCP-чат2\Tcp-чат2\Tcp-чат2\obj\Debug\Tcp-чат2.csproj.AssemblyReference.cache
+C:\Users\Achem\source\repos\Проверка Сетервых протоколов\TCP-чат2\Tcp-чат2\Tcp-чат2\obj\Debug\MainWindow.g.cs
+C:\Users\Achem\source\repos\Проверка Сетервых протоколов\TCP-чат2\Tcp-чат2\Tcp-чат2\obj\Debug\App.g.cs
+C:\Users\Achem\source\repos\Проверка Сетервых протоколов\TCP-чат2\Tcp-чат2\Tcp-чат2\obj\Debug\Tcp-чат2_MarkupCompile.cache
+C:\Users\Achem\source\repos\Проверка Сетервых протоколов\TCP-чат2\Tcp-чат2\Tcp-чат2\obj\Debug\Tcp-чат2_MarkupCompile.lref
+C:\Users\Achem\source\repos\Проверка Сетервых протоколов\TCP-чат2\Tcp-чат2\Tcp-чат2\obj\Debug\MainWindow.baml
+C:\Users\Achem\source\repos\Проверка Сетервых протоколов\TCP-чат2\Tcp-чат2\Tcp-чат2\obj\Debug\Tcp-чат2.g.resources
+C:\Users\Achem\source\repos\Проверка Сетервых протоколов\TCP-чат2\Tcp-чат2\Tcp-чат2\obj\Debug\Tcp_чат2.Properties.Resources.resources
+C:\Users\Achem\source\repos\Проверка Сетервых протоколов\TCP-чат2\Tcp-чат2\Tcp-чат2\obj\Debug\Tcp-чат2.csproj.GenerateResource.cache
+C:\Users\Achem\source\repos\Проверка Сетервых протоколов\TCP-чат2\Tcp-чат2\Tcp-чат2\obj\Debug\Tcp-чат2.csproj.CoreCompileInputs.cache
+C:\Users\Achem\source\repos\Проверка Сетервых протоколов\TCP-чат2\Tcp-чат2\Tcp-чат2\obj\Debug\Tcp-чат2.exe
+C:\Users\Achem\source\repos\Проверка Сетервых протоколов\TCP-чат2\Tcp-чат2\Tcp-чат2\obj\Debug\Tcp-чат2.pdb
