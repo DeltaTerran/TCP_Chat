@@ -11,15 +11,15 @@
         Title="Месседжер" Height="450" Width="800" ResizeMode="NoResize" Closing="Window_Closing">
 
     <Grid>
-        <Button Name="SendButton" Height="35" Margin="590,374,10,12" Click="SendButton_Click">Отправить</Button>
+        <Button x:Name="SendButton" Height="35" Margin="590,374,10,12" Click="SendButton_Click" Content="Надіслати"/>
         <TextBox Name ="SendText" Margin="10,374,209,10" KeyDown="SendText_KeyDown" ></TextBox>
         <TextBox Name="ChatArea" Margin="10,79,0,0" IsReadOnly="True" HorizontalAlignment="Left" Width="575" Height="290" VerticalAlignment="Top"></TextBox>
-        <Label x:Name="userLabel" Margin="75,20,617,0" Content="Пользователь" VerticalAlignment="Top"/>
+        <Label x:Name="userLabel" Margin="75,20,617,0" Content="Користувач&#xD;&#xA;" VerticalAlignment="Top"/>
         <TextBox Name="userName_Add" TextAlignment="Center" RenderTransformOrigin="0.702,0.799" Margin="181,26,312,0" Height="20" VerticalAlignment="Top"/>
-        <Button Name="chatEntry" Height="45" Width="100" Margin="487,26,0,0" Click="chatEntry_Click" VerticalAlignment="Top" HorizontalAlignment="Left">Вход</Button>
+        <Button x:Name="chatEntry" Height="45" Width="100" Margin="487,26,0,0" Click="chatEntry_Click" VerticalAlignment="Top" HorizontalAlignment="Left" Content="Вхід"/>
         <ListBox SelectionMode="Multiple" x:Name="UserList" HorizontalAlignment="Left" Height="290" Margin="590,79,0,0" VerticalAlignment="Top" Width="194" />
         <TextBox x:Name="Host_Add" TextAlignment="Center" RenderTransformOrigin="0.702,0.799" Margin="182,51,386,0" Height="20" VerticalAlignment="Top"/>
-        <Label x:Name="hostLabel" Margin="75,48,617,0" Content="Хост и Порт" RenderTransformOrigin="0.843,0.269" VerticalAlignment="Top"/>
+        <Label x:Name="hostLabel" Margin="75,48,617,0" Content="Хост та Порт" RenderTransformOrigin="0.843,0.269" VerticalAlignment="Top"/>
         <TextBox x:Name="Port_Add" TextAlignment="Center" RenderTransformOrigin="0.702,0.799" Margin="413,51,313,0" Height="20" VerticalAlignment="Top"/>
     </Grid>
 </Window>

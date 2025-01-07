@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10D807A7-A737-493A-80DA-0E673911A509}|Server\\Server.csproj|c:\\users\\spaka\\documents\\github\\tcp_chat\\tcp-\u0447\u0430\u04422\\tcp-\u0447\u0430\u04422\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{10D807A7-A737-493A-80DA-0E673911A509}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10D807A7-A737-493A-80DA-0E673911A509}|Server\\Server.csproj|c:\\users\\spaka\\documents\\github\\tcp_chat\\tcp-\u0447\u0430\u04422\\tcp-\u0447\u0430\u04422\\server\\clientobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10D807A7-A737-493A-80DA-0E673911A509}|Server\\Server.csproj|solutionrelative:server\\clientobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10D807A7-A737-493A-80DA-0E673911A509}|Server\\Server.csproj|c:\\users\\spaka\\documents\\github\\tcp_chat\\tcp-\u0447\u0430\u04422\\tcp-\u0447\u0430\u04422\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10D807A7-A737-493A-80DA-0E673911A509}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10D807A7-A737-493A-80DA-0E673911A509}|Server\\Server.csproj|c:\\users\\spaka\\documents\\github\\tcp_chat\\tcp-\u0447\u0430\u04422\\tcp-\u0447\u0430\u04422\\server\\serverobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10D807A7-A737-493A-80DA-0E673911A509}|Server\\Server.csproj|solutionrelative:server\\serverobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF57621F-FFCB-49A3-B897-3A1C4FF071F6}|Tcp-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422.csproj|c:\\users\\spaka\\documents\\github\\tcp_chat\\tcp-\u0447\u0430\u04422\\tcp-\u0447\u0430\u04422\\tcp-\u0447\u0430\u04422\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF57621F-FFCB-49A3-B897-3A1C4FF071F6}|Tcp-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422.csproj|solutionrelative:tcp-\u0447\u0430\u04422\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF57621F-FFCB-49A3-B897-3A1C4FF071F6}|Tcp-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422.csproj|c:\\users\\spaka\\documents\\github\\tcp_chat\\tcp-\u0447\u0430\u04422\\tcp-\u0447\u0430\u04422\\tcp-\u0447\u0430\u04422\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BF57621F-FFCB-49A3-B897-3A1C4FF071F6}|Tcp-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422.csproj|solutionrelative:tcp-\u0447\u0430\u04422\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BF57621F-FFCB-49A3-B897-3A1C4FF071F6}|Tcp-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422.csproj|c:\\users\\spaka\\documents\\github\\tcp_chat\\tcp-\u0447\u0430\u04422\\tcp-\u0447\u0430\u04422\\tcp-\u0447\u0430\u04422\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF57621F-FFCB-49A3-B897-3A1C4FF071F6}|Tcp-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422.csproj|solutionrelative:tcp-\u0447\u0430\u04422\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF57621F-FFCB-49A3-B897-3A1C4FF071F6}|Tcp-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422.csproj|C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\tcp-\u0447\u0430\u04422\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,91 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Server",
-              "DocumentMoniker": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Server\\Server.csproj",
-              "RelativeDocumentMoniker": "Server\\Server.csproj",
-              "ToolTip": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Server\\Server.csproj",
-              "RelativeToolTip": "Server\\Server.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-06T00:06:28.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "Tcp-\u0447\u0430\u04422\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "Tcp-\u0447\u0430\u04422\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T00:05:47.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\App.xaml",
-              "RelativeDocumentMoniker": "Tcp-\u0447\u0430\u04422\\App.xaml",
-              "ToolTip": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\App.xaml",
-              "RelativeToolTip": "Tcp-\u0447\u0430\u04422\\App.xaml",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Tcp-\u0447\u0430\u04422\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\MainWindow.xaml",
+              "RelativeToolTip": "Tcp-\u0447\u0430\u04422\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-06T00:05:41.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Tcp-\u0447\u0430\u04422\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Tcp-\u0447\u0430\u04422\\MainWindow.xaml.cs",
-              "ViewState": "AQIAACsBAAAAAAAAAAAAAA4AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T00:37:51.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServerObject.cs",
-              "DocumentMoniker": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Server\\ServerObject.cs",
-              "RelativeDocumentMoniker": "Server\\ServerObject.cs",
-              "ToolTip": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Server\\ServerObject.cs",
-              "RelativeToolTip": "Server\\ServerObject.cs",
-              "ViewState": "AQIAAIkAAAAAAAAAAAAqwHUAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T23:43:42.244Z",
+              "WhenOpened": "2025-01-07T14:15:59.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ClientObject.cs",
-              "DocumentMoniker": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Server\\ClientObject.cs",
-              "RelativeDocumentMoniker": "Server\\ClientObject.cs",
-              "ToolTip": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Server\\ClientObject.cs",
-              "RelativeToolTip": "Server\\ClientObject.cs",
-              "ViewState": "AQIAAHoAAAAAAAAAAAAqwCoAAAA0AAAA",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Tcp-\u0447\u0430\u04422\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Tcp-\u0447\u0430\u04422\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAewDsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T23:43:36.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Server\\Program.cs",
-              "RelativeDocumentMoniker": "Server\\Program.cs",
-              "ToolTip": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-\u0447\u0430\u04422\\Tcp-\u0447\u0430\u04422\\Server\\Program.cs",
-              "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAA5wBMAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T23:16:12.53Z",
+              "WhenOpened": "2024-09-28T00:37:51.482Z",
               "EditorCaption": ""
             }
           ]
