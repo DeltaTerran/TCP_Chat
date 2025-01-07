@@ -7,6 +7,11 @@ namespace Server
     {
         static ServerObject server; // сервер
         static Thread listenThread; // потока для прослушивания
+
+        /// <summary>
+        /// При запуске сервера создается объект serverObject и потоку присваивается метод класса serverObject - Listen
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             try

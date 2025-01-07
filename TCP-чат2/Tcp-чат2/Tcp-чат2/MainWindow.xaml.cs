@@ -51,7 +51,10 @@ namespace Tcp_чат2
             #endregion
 
         }
-
+        /*
+         * Создается TcpClient который подключается к адрессу сервера
+         * Отправляет сообщение о входе userName и создается поток с функцией ReceiveMessage
+        */
         private void chatEntry_Click(object sender, RoutedEventArgs e)
         {
             userName = userName_Add.Text;
@@ -68,10 +71,13 @@ namespace Tcp_чат2
                 chatEntry.IsEnabled = false;
                 SendButton.IsEnabled = true;
                 #endregion
+                
                 ChatArea.Text += $"Добро пожаловать, {userName}\n";
                 string message = userName_Add.Text;
                 byte[] data = Encoding.Unicode.GetBytes(message);
                 stream.Write(data, 0, data.Length);
+
+
                 Task receiveThread = new Task(ReceiveMessage);
                 receiveThread.Start(); //старт потока
 
@@ -96,6 +102,10 @@ namespace Tcp_чат2
         /// получение сообщений
         /// </summary>
 
+
+        /*
+         * 
+         */
         private void ReceiveMessage()
         {
             alive = true;

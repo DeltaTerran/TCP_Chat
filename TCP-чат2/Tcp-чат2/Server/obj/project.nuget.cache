@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nB+Qnefa0ZuEO7edovecTUHN5RUWQMO1mnvj6dlvUoTjsKfnoq9xgKqqhsvcMPDHWwXObI6uu2qYMCZkxpRVWw==",
+  "dgSpecHash": "a0FI7gOTbqY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Achem\\source\\repos\\Проверка Сетервых протоколов\\TCP-чат2\\Tcp-чат2\\Server\\Server.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Achem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\spaka\\Documents\\GitHub\\TCP_Chat\\TCP-чат2\\Tcp-чат2\\Server\\Server.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
